@@ -11,5 +11,11 @@ namespace OleksandrZhurba
         {
             Console.WriteLine("Test Ok");
         }
+
+        [Test]
+        public void TestMethod2()
+        {
+            Console.WriteLine("Test Ok 2");
+        }
     }
 }
